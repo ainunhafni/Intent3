@@ -16,27 +16,23 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:id="@+id/imageViewPhone"
-        android:layout_weight="1"
         app:srcCompat="@drawable/ic_call_black_24dp" />
 
     <ImageView
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:id="@+id/imageViewSMS"
-        android:layout_weight="1"
         app:srcCompat="@drawable/ic_chat_black_24dp" />
 
     <ImageView
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:id="@+id/imageViewBrowser"
-        android:layout_weight="1"
         app:srcCompat="@drawable/ic_language_black_24dp" />
 
     <ImageView
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:id="@+id/imageViewCamera"
-        android:layout_weight="1"
         app:srcCompat="@drawable/ic_photo_camera_black_24dp" />
 </LinearLayout>
